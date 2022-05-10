@@ -209,3 +209,8 @@ Acho que vale uma tentativa do zero, agora que já instalou o firmware. Manda um
 ![](./imgs/20.jpg)
 
 SENSACIONAL.
+
+Estou rindo aqui.. felicidade. só tenho a te agradecer imensamente, professor!!! Não tenho palavras.
+Sábado. A noite, quase meia noite. E o senhor me ajudando. Foi muito rica essa experiência. 
+Pra uns pode parecer coisa boba mas pra mim foi incrível.
+@kretcheu você é o cara!!!
