@@ -87,3 +87,7 @@ ou
 ```
 dhclient
 ```
+
+```
+systemctl enable --now dhclient
+```
