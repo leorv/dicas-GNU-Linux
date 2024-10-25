@@ -11,7 +11,7 @@ coreboot, libreboot.
 
 UEFI tem vantagens sobre a BIOS.
 
-UEFI "conhece" os sitemas de particionamentos, sistemas de arquivos FAT, conhece formato de arquivos executáveis (PE, Portable Executable).
+UEFI "conhece" os sistemas de particionamentos, sistemas de arquivos FAT, conhece formato de arquivos executáveis (PE, Portable Executable).
 
 Podemos chamar eles de firmwares (BIOS e UEFI), são softwares mas fazem parte da máquina.
 
@@ -28,7 +28,7 @@ Essa ideia de 4 partições foi contornada por uma ideia de partição estendida
 
 MBR = Master boot record
 
-![](./imagens/particionamento-mbr.png "particionamento dos/mbr")
+![](particionamento-mbr.png "particionamento dos/mbr")
 
 MBR é um bloco, um setor, muita gente chama de setor 0 ou partição 0, composto de 512 bytes. Nos primeiros tem a  tabela de partição. Nos outros tem uma parte do bootloader.
 
@@ -47,7 +47,7 @@ GUID = Global Unique Identifiers
 
 Na verdade o limite de 128 partições é do sistema operacional, e não do sistema de particionamento.
 
-![](./imagens/particionamento-gpt.png "particionamento gpt")
+![](particionamento-gpt.png "particionamento gpt")
 
 A parte inicial fica em Protective MBR e a tabela de particionamento fica na próxima parte, do Primary GPT Header até Entries 5-128.
 
@@ -89,7 +89,7 @@ Quando a gente instala um novo Kernel, um novo Initrd é criado, calculado, com 
 
 ## Como funciona
 
-![](./imagens/boot.png)
+![](boot.png)
 
 Toda main board possui seus circuitos e também software. Um desses softwares, é o POST (Power On Self Test). Testa várias coisas, placa de vídeos, memória.
 

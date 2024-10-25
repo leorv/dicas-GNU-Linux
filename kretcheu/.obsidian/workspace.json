@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7f4ff66137a2632e",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f1b3e28f716fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c9772f5623565cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68e9c272519b85ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "766f4217009d2b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d085cfbac853f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4715e31706950d57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f7f0723edab139a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dbe5c1ecd71bba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb8068a283ea206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6553d3f2b1955603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a1824b2fe6a91a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-principios-unix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-principios-unix"
+            }
+          },
+          {
+            "id": "79754278b56fea5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac2c4c1ce0a868d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "base/01-principios-unix.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-principios-unix"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c9772f5623565cd",
+  "lastOpenFiles": [
+    "base/03-FHS.md",
+    "base/02-terminal ou não terminal.md",
+    "base/01-principios-unix.md",
+    "base/00-modelo-mental-bios-uefi.md",
+    "Untitled",
+    "Untitled.canvas",
+    "base"
+  ]
+}

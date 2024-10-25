@@ -1,2 +1,0 @@
-# Princípios Unix
-
